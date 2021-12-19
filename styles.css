@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    /*background-color: #3a3a3a;*/
+    color: white;
+    background-image: url("resources/images/waves_tile.png");
+    background-repeat: repeat;
+}
+
+.content_outer {
+    width: 70%;
+    margin: auto;
+    margin-top: 4%;
+    background-image: url("resources/images/Clouds2.jpg");
+    background-repeat: repeat;
+    position: center;
+    padding: 10px;
+    box-shadow: 20px 20px black;
+}
+
+.content_inner {
+    background-color:#3a3a3a;
+    padding: 30px;
+}
+
+.content_inner_heading {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: #3a3a3a;
+}
+
+.form_center {
+    margin: 0 auto;
+    width: 50%;
+}
